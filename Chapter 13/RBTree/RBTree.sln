@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RBTree", "RBTree\RBTree.vcxproj", "{05BD9D54-9A33-4601-96C5-BD7B2C10786F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BD9D54-9A33-4601-96C5-BD7B2C10786F}.Debug|x64.ActiveCfg = Debug|x64
+		{05BD9D54-9A33-4601-96C5-BD7B2C10786F}.Debug|x64.Build.0 = Debug|x64
+		{05BD9D54-9A33-4601-96C5-BD7B2C10786F}.Debug|x86.ActiveCfg = Debug|Win32
+		{05BD9D54-9A33-4601-96C5-BD7B2C10786F}.Debug|x86.Build.0 = Debug|Win32
+		{05BD9D54-9A33-4601-96C5-BD7B2C10786F}.Release|x64.ActiveCfg = Release|x64
+		{05BD9D54-9A33-4601-96C5-BD7B2C10786F}.Release|x64.Build.0 = Release|x64
+		{05BD9D54-9A33-4601-96C5-BD7B2C10786F}.Release|x86.ActiveCfg = Release|Win32
+		{05BD9D54-9A33-4601-96C5-BD7B2C10786F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F504EE56-B8F7-43B2-90D2-50614EE3EEDC}
+	EndGlobalSection
+EndGlobal
